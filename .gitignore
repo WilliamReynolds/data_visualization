@@ -1,3 +1,5 @@
 *.ods
-*.xml
-
+*.xlsx
+*.xlsm
+*.xltx
+*.xltm
